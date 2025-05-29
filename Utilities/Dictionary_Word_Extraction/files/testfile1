@@ -1,0 +1,5 @@
+Basically, I'm scanning 
+in the strings from a file using fscanf
+, then for each string calling my function 
+From a file
+ FILE
